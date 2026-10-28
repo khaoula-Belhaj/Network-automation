@@ -50,7 +50,7 @@ Each router was prepared for automation: IP domain, RSA key generation, local us
 |---|---|---|
 | Level | Generic SSH library | Built on Paramiko, network-aware |
 | Cisco prompts, `enable`, `conf t`, `--More--` paging | Handled manually | Handled automatically |
-| Best for Cisco devices | — | ✔ |
+| Best for Cisco devices | No | Yes |
 
 ---
 
